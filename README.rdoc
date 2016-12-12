@@ -1,3 +1,6 @@
+# Rails tutorial 4.0
+ruby -v ruby 2.0.0p648
+
 == README
 
 This README would normally document whatever steps are necessary to get the
